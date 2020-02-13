@@ -4,15 +4,15 @@
 <p>If you're interested in prior projects that I've worked on, you can check some of my work out below:</p>
 <ul>
   <li>
-    <a href="https://npdevices.com/">Naked Prosthetics</a><i> (WordPress) </i>
+    <a target="_blank" href="https://npdevices.com/">Naked Prosthetics</a><i> (WordPress) </i>
   </li>
   <li>
-    <a href="https://www.ourfutureislocal.com/">Katz Media Group - Insights Hub</a><i> (HubSpot) </i>
+    <a target="_blank" href="https://www.ourfutureislocal.com/">Katz Media Group - Insights Hub</a><i> (HubSpot) </i>
   </li>
   <li>
-    <a href="https://norcaldev.wpengine.com">NOR-CAL Moving</a><i> (WordPress) </i>
+    <a target="_blank" href="https://norcaldev.wpengine.com">NOR-CAL Moving</a><i> (WordPress) </i>
   </li>
   <li>
-    <a href="https://go.ncsolutions.com/howadvertisingworks">NCSolutions - How Advertising Works</a><i> (Pardot) </i>
+    <a target="_blank" href="https://go.ncsolutions.com/howadvertisingworks">NCSolutions - How Advertising Works</a><i> (Pardot) </i>
   </li>
 </ul>
