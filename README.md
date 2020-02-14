@@ -15,4 +15,7 @@
   <li>
     <a target="_blank" href="https://go.ncsolutions.com/howadvertisingworks">NCSolutions - How Advertising Works</a><i> (Pardot) </i>
   </li>
+  <li>
+    <a target="_blank" href="http://findacomfortkeeper.com/Cupertino/LearnMore/">ComfortKeepers - Learn More About Cupertino</a><i> (Vue.JS) </i>
+  </li>
 </ul>
