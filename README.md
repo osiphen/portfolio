@@ -1,8 +1,6 @@
 # Cody's Portfolio
 <p>Thanks for visiting my portfolio! In lieu of a traditional portfolio, I've decided to include some projects that I've worked on/am actively working on. If I'm featuring these items, there has been a significant enough amount of work completed by myself, whether solo or in a team setting.</p>
 
-<p>If you're interested in prior projects that I've worked on, you can check some of my work out below:</p>
-
 <ul>
   <li>
     <a target="_blank" href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a><i> [periodic website updates - includes updated existing templates, new templates, and a brand new header.] </i>
