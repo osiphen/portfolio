@@ -20,9 +20,9 @@
     <a target="_blank" href="https://materalize.com">Materialize</a><i> [assisted a team of four developrs to build and launch within 6 weeks] </i>
   </li>
   <li>
-    <a target="_blank" href="https://mindmed.co"></a><i> [assisted a team of three developers to build and launch within 4 weeks] </i>
+    <a target="_blank" href="https://mindmed.co">MindMedicine</a><i> [assisted a team of three developers to build and launch within 4 weeks] </i>
   </li>
   <li>
-    <a target="_blank" href="https://instrumental.com"></a><i> [assisted another developer in building and launching within 5 weeks.] </i>
+    <a target="_blank" href="https://instrumental.com">Instrumental</a><i> [assisted another developer in building and launching within 5 weeks.] </i>
   </li>
 </ul>
