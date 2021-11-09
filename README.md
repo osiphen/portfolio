@@ -1,5 +1,5 @@
 # Cody's Portfolio
-<p>Thanks for visiting my portfolio! In lieu of a traditional portfolio, I've decided to include some projects that I've worked on/am actively working on. If I'm featuring these items, there has been a significant enough amount of work completed by myself, whether solo or in a team setting.</p>
+<p>Thanks for visiting my portfolio! In lieu of a traditional portfolio, I've decided to include some projects that I've worked on/am actively working on. The items featured demonstrate a mixture of my skills as all of these sites utilize HTML, CSS, JS, and PHP. Often this is completely custom code, but I have dabbled within frameworks such as React and Vue.</p>
 
 <ul>
   <li>
