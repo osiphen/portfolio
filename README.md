@@ -6,6 +6,9 @@
     <a target="_blank" href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a><i> [periodic website updates - includes updated existing templates, new templates, and a brand new header.] </i>
   </li>
   <li>
+    <a target="_blank" href="https://tech.chanzuckerberg.com/">Tech@CZI</a><i> [managed the development process of entire site for build and launch within 3 week]</i>
+  </li>
+  <li>
     <a target="_blank" href="https://www.czbiohub.org/">CZ Biohub</a><i> [built primary site from ground up within 4 weeks. New header and multiple new page templates. Entire multi-site network with flexible theme built for lab sites (<a href="https://czbiohub.org/royer">https://czbiohub.org/royer</a>] </i>
   </li>
   <li>
