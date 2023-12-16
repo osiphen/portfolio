@@ -12,7 +12,7 @@
     <a target="_blank" href="https://tech.chanzuckerberg.com/">Tech@CZI</a><i> [managed the development process of entire site for build and launch]</i>
   </li>
   <li>
-    <a target="_blank" href="https://www.czbiohub.org/">CZ Biohub</a><i> [built primary site from ground up within 4 weeks. New header and multiple new page templates. Entire multi-site network with flexible theme built for lab sites (<a href="https://czbiohub.org/royer">https://czbiohub.org/royer</a>] </i>
+    <a target="_blank" href="https://www.czbiohub.org/">CZ Biohub</a><i> [built primary site from ground up within 4 weeks. New header and multiple new page templates. Entire multi-site network with flexible theme built for lab sites (<a href="https://czbiohub.org/royer">https://czbiohub.org/royer</a>)] </i>
   </li>
   <li>
     <a target="_blank" href="https://bolt.com">Bolt</a><i> [rebuilt as a headless WordPress website, then converted to a headless Strapi website. Frontend built in Next.js]</i>
