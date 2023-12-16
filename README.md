@@ -1,18 +1,21 @@
 # Cody's Portfolio
-<p>Thanks for visiting my portfolio! In lieu of a traditional portfolio, I've decided to include some projects that I've worked on/am actively working on. The items featured demonstrate a mixture of my skills as all of these sites utilize HTML, CSS, JS, and PHP. Often this is completely custom code, but I have dabbled within frameworks such as React and Vue.</p>
+<p>Thanks for visiting my portfolio! I'm Cody, a web developer with a decade of experience. Throughout my career I’ve excelled at crafting spaces for award-winning digital agencies and their diverse clients. From local mom and pop auto shops to internationally recognized philanthropic organizations, I’ve led web projects that drive growth for businesses and communities alike. The list below are some websites that I'm proud to show you that I've worked on:</p>
 
 <ul>
+  <li>
+    <a target="_blank" href="https://openvpn.net/">OpenVPN</a><i> [period website updates - including a rebuild of critical webpages, a new blog system built in HubSpot, and an ongoing new headless website in Next.js] </i>
+  </li>
   <li>
     <a target="_blank" href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a><i> [periodic website updates - includes updated existing templates, new templates, and a brand new header.] </i>
   </li>
   <li>
-    <a target="_blank" href="https://tech.chanzuckerberg.com/">Tech@CZI</a><i> [managed the development process of entire site for build and launch within 3 week]</i>
+    <a target="_blank" href="https://tech.chanzuckerberg.com/">Tech@CZI</a><i> [managed the development process of entire site for build and launch]</i>
   </li>
   <li>
     <a target="_blank" href="https://www.czbiohub.org/">CZ Biohub</a><i> [built primary site from ground up within 4 weeks. New header and multiple new page templates. Entire multi-site network with flexible theme built for lab sites (<a href="https://czbiohub.org/royer">https://czbiohub.org/royer</a>] </i>
   </li>
   <li>
-    <a target="_blank" href="https://bolt.com">Bolt</a><i> [ongoing maintenance of acquired Tailwind build, multiple updates including new templates, updated templates, and new header. Currently assisting with complete rebuild within React]</i>
+    <a target="_blank" href="https://bolt.com">Bolt</a><i> [rebuilt as a headless WordPress website, then converted to a headless Strapi website. Frontend built in Next.js]</i>
   </li>
   <li>
     <a target="_blank" href="https://source.co">Source.co</a><i> [assisted a team of three developers to build and launch within 6 weeks] </i>
